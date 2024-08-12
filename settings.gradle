@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "android_open_cv"
 include ':app'
+winclude ':opencv_sdk'

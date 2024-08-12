@@ -1,0 +1,4 @@
+/Users/ggredinare/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/ggredinare/personal/AndroidCV/opencv_sdk/.cxx/Debug/3d6h5s13/armeabi-v7a \
+  opencv_jni_shared
