@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.android_open_cv"
-        minSdk 16
+        minSdk 23
         targetSdk 34
         versionCode 1
         versionName "1.0"
